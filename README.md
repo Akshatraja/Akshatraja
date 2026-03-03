@@ -1,4 +1,4 @@
-## Hy its Akshat 👋
+## Hy its Akshat Dave 👋
 
 <!--
 **Akshatraja/Akshatraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
