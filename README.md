@@ -19,8 +19,6 @@ I am expanding my knowledge in both backend development and advanced **Cybersecu
 - 🧙‍♂️ I’m currently learning ... **Ethical Hacking**, **Network Security**, **Python**
 - 👻 I’m ambitious with new challenges and exploits I take on..
 - 🫡 Feel free to ask me anything! I’m motivated to help others learn.
-- 😎 Reach out to me on: <a href="https://www.linkedin.com/in/akshat-dave-52972225b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" valign="middle" /></a> | 
-
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="250" alt="Kali Linux Dragon" />
